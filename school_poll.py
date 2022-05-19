@@ -4,7 +4,7 @@ from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMedia
 from datetime import datetime
 import pymysql as sq
 
-bot = telebot.TeleBot("5216750149:AAHWqRhZODAS1-xvhZQLBpOn5mtvZDqtH7Y")
+bot = telebot.TeleBot("token")
 base_h = 'localhost'
 base_user = 'admin'
 base_pass = 'admin'
